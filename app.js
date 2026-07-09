@@ -26,7 +26,7 @@ window.location.href="pdf/ListaPrecios.pdf";
 
 function abrirInfo(){
 
-window.location.href="pages/informacion.html";
+window.location.href="Pages/informacion.html";
 
 }
 
