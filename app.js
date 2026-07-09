@@ -8,13 +8,13 @@ document.getElementById("app").classList.remove("oculto");
 
 function abrirGuadanas(){
 
-window.location.href="pages/guadanas.html";
+window.location.href="Pages/guadanas.html";
 
 }
 
 function abrirCercas(){
 
-window.location.href="pages/cercas.html";
+window.location.href="Pages/cercas.html";
 
 }
 
